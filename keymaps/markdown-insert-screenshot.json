@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "cmd-shift-2": "markdown-insert-screenshot:screenshot-to-relative-destination"
+    "cmd-@": "markdown-insert-screenshot:screenshot-to-relative-destination"
   }
 }
