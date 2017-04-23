@@ -1,0 +1,21 @@
+{
+  "name": "markdown-insert-screenshot",
+  "main": "./lib/markdown-insert-screenshot",
+  "version": "0.0.1",
+  "description": "A lightweight utility for saving interactive screenshots to relative file paths",
+  "keywords": [
+    "Markdown",
+    "screenshot"
+  ],
+  "activationCommands": {
+    "atom-workspace": "markdown-insert-screenshot:screenshot-to-relative-destination"
+  },
+  "repository": "https://github.com/atom/markdown-insert-screenshot",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "shelljs": "^0.7.7"
+  }
+}

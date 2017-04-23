@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Take screenshot and save to relative destination",
+        "command": "markdown-insert-screenshot:screenshot-to-relative-destination"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "markdown-insert-screenshot",
+          "submenu": [
+            {
+              "label": "Take screenshot and save to relative destination",
+              "command": "markdown-insert-screenshot:screenshot-to-relative-destination"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
