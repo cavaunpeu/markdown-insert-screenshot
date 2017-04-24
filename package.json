@@ -1,7 +1,7 @@
 {
   "name": "markdown-insert-screenshot",
   "main": "./lib/markdown-insert-screenshot",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A lightweight utility for saving interactive screenshots to relative file paths",
   "keywords": [
     "Markdown",
